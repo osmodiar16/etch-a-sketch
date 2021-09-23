@@ -1,1 +1,1 @@
-This is going to be a Etch-a-Sketch
+This is going to be an Etch-a-Sketch
